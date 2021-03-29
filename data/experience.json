@@ -1,0 +1,25 @@
+{
+	"title" : "Education",
+	"experience" : [
+		{
+			"timeperiod" : "2011",
+			"company" : "Jalalabad Cantonment Board High School",
+			"description" : "Jalalabad Cantonment, Sylhet"
+		},
+		{
+			"timeperiod" : "2012",
+			"company" : "Shaheed Ramiz Uddin Cantonment School",
+			"description" : "Dhaka Cantonment, Dhaka"
+		},
+		{
+			"timeperiod" : "2013-2019",
+			"company" : "Adamjee Cantonment Public School",
+			"description" : "Dhaka Cantonment, Dhaka"
+		},
+		{
+			"timeperiod" : "2019-Present",
+			"company" : "Adamjee Cantonment College",
+			"description" : "Dhaka Cantonment, Dhaka"
+		}
+	]
+}

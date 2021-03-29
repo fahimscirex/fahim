@@ -1,0 +1,21 @@
+{
+	"title" : "Interests",
+	"services" : [
+		{
+			"icon" : "book-reader",
+			"title" : "Literature"
+		},
+		{
+			"icon" : "linux",
+			"title" : "Linux"
+		},
+		{
+			"icon" : "blog",
+			"title" : "Blog"
+		},
+		{
+			"icon" : "music",
+			"title" : "Band Music"
+		}
+									]
+}
